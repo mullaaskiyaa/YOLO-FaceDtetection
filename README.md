@@ -46,11 +46,6 @@ yolov8-face-detector/
 ├── requirements.txt
 └── README.md
 
-⚙️ Installation
-
-Clone the repository
-
-git clone https://github.com/your-username/yolov8-face-detector.git
 cd yolov8-face-detector
 
 
@@ -104,14 +99,9 @@ Mask detection
 Emotion detection
 
 Deployment as a web application
-
-👤 Author
-
-Your Name
-GitHub: https://github.com/shaikmuskan0512
-
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 DEMO Link : https://e6e31d6768f8dd434b.gradio.live
+
 
 
